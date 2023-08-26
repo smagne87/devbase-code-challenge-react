@@ -9,7 +9,9 @@ Node version 16+
 
 ## Install and Running
 
-```npm install
-npm start```
+```
+npm install
+npm start
+```
 
 Go to http://localhost:3000/
